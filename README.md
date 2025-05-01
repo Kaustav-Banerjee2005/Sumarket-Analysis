@@ -1,4 +1,4 @@
-# Sumarket-Analysis
+# Supermarket-Analysis
 <br>
 This project analyzes supermarket sales data to uncover insights and trends using Python and various data visualization techniques. The analysis is performed in a Jupyter Notebook.
 <br>
